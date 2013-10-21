@@ -23,4 +23,7 @@ Then run the notebook from your machine with this command:
 
     ipython notebook --no-browser --ip=0.0.0.0 --script --pylab=inline
 
-The relevant notebook you should look at is `Earthquakes.ipynb`
+The relevant notebook you should look at is `Earthquakes.ipynb`  
+It includes codes and explanations of   
+* data curation, both accessing from url and local saved json file.
+* visualizations.  
