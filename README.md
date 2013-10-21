@@ -25,5 +25,5 @@ Then run the notebook from your machine with this command:
 
 The relevant notebook you should look at is `Earthquakes.ipynb`  
 It includes codes and explanations of   
-* data curation, both accessing from url and local saved json file.
-* visualizations.  
+-data curation, both accessing from url and locally saved json file.
+-visualizations.  
