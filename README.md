@@ -14,7 +14,7 @@ Preliminary Setup Steps
 To run this example you'll need to install the following packages
 inside your virtual machine:
 
-    sudo apt-get install libgeos-3.3.3 python-mpltoolkits.basemap python-mpltoolkits.basemap-data python-mpltoolkits.basemap-doc
+    sudo apt-get install libgeos-3.3.3 python-mpltoolkits.basemap python-mpltoolkits.basemap-data python-mpltoolkits.basemap-doc python-pandas
 
 
 #How to Run Code
