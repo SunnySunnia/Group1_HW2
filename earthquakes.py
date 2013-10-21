@@ -41,9 +41,9 @@ df = pd.DataFrame(np.array(earthquakes), columns = ['Src','Eqid','Datetime','Lat
 df[0:10]
 
 California = df[df.Src == 'ci']
-california[0:5]
-print california.Lon[0:5]
-california.Lat[0:5]
+California[0:5]
+print California.Lon[0:5]
+California.Lat[0:5]
 
 from mpl_toolkits.basemap import Basemap
 
@@ -60,4 +60,4 @@ def plot_quakes(quakes):
     m.plot(x, y, 'k.')
     return m
 
-plot_quakes(california)
+plot_quakes(California)
