@@ -26,4 +26,9 @@ Then run the notebook from your machine with this command:
 The relevant notebook you should look at is `Earthquakes.ipynb`  
 It includes codes and explanations of:   
 -data curation, both accessing from url and locally saved json file.  
--visualizations.  
+-visualizations.
+
+Spreadsheet Cache of imformation at:
+        
+        https://docs.google.com/spreadsheet/ccc?key=0Ah0rOhbMSANOdFlpQnpraV9UendEeHdtSDZEYXpoQ2c&usp=sharing
+        
